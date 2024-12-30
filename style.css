@@ -1,0 +1,55 @@
+.container{
+    padding-bottom: 50px;
+}
+.bg-color{
+    background-color:#e4cfd8 ;
+}
+.top-text{
+    padding-left: 100px;
+}
+.by-now-button{
+
+}
+.price{
+   color: #FF136F;
+}
+.by-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat-1{
+    background-color: orange;
+}
+.cat-2{
+    background-color: orchid;
+}
+.cat-3{
+    background-color: blue;
+}
+.cat-1, .cat-2, .cat-3{
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.coustom-s{
+    border: none !important;
+    box-shadow: 5px 5px 10px lightslategray ;
+    
+}
+.card-footer{
+    border: none !important;
+}
+
+.subscribe{
+    height: 300px;
+    background-color:#e4cfd8;
+    
+
+}
+.subscribe p{
+    color: gray;
+}
